@@ -1,0 +1,12 @@
+C:\Users\Faker\Desktop\笔试题\Test\2\16-ABTest\bin\Debug\16-ABTest.exe.config
+C:\Users\Faker\Desktop\笔试题\Test\2\16-ABTest\bin\Debug\16-ABTest.exe
+C:\Users\Faker\Desktop\笔试题\Test\2\16-ABTest\bin\Debug\16-ABTest.pdb
+C:\Users\Faker\Desktop\笔试题\Test\2\16-ABTest\obj\Debug\16-ABTest.exe
+C:\Users\Faker\Desktop\笔试题\Test\2\16-ABTest\obj\Debug\16-ABTest.pdb
+C:\Users\Faker\Desktop\笔试题\Test\2\16-ABTest\obj\Debug\16-ABTest.csprojResolveAssemblyReference.cache
+C:\Users\Faker\Desktop\2\16-ABTest\bin\Debug\16-ABTest.exe.config
+C:\Users\Faker\Desktop\2\16-ABTest\obj\Debug\16-ABTest.exe
+C:\Users\Faker\Desktop\2\16-ABTest\obj\Debug\16-ABTest.pdb
+C:\Users\Faker\Desktop\2\16-ABTest\bin\Debug\16-ABTest.exe
+C:\Users\Faker\Desktop\2\16-ABTest\bin\Debug\16-ABTest.pdb
+C:\Users\Faker\Desktop\2\16-ABTest\obj\Debug\16-ABTest.csprojResolveAssemblyReference.cache
